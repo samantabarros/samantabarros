@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/samantabarros">
   <img height="180cm" src = "https://github-readme-stats.vercel.app/api?username=samantabarros&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samantabarros&theme=midnight-purple&langs_count=16" />
+  <img height="180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samantabarros&theme=midnight-purple&langs_count=16" />
 </div>
   
 <div style="display: inline_block"><br>
@@ -14,8 +14,8 @@
   
 ##
   <div>
-    <a href="samantasouza093@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://linkedin.com/in/samantabarros" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target"_blank"></a>
+    <a href="mailto:samantasouza093@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/samantabarros" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target"_blank"></a>
                         
   </div>
   
