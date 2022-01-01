@@ -1,4 +1,4 @@
-### Olá devs! Sou uma desenvolvedora em treinamento que ama tecnologia e tudo relacionado a ela! ☺
+### Olá devs! Sou uma desenvolvedora em treinamento, encantada por esse mundo fantástico da tecnologia! ☺
 
 <div>
   <a href="https://github.com/samantabarros">
@@ -16,7 +16,7 @@
   
 ##
   <div>
-    <a href="mailto:samantasouza093@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:samantadesenvolvedora@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/samantabarros" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target"_blank"></a>
                         
   </div>
