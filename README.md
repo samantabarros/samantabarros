@@ -1,4 +1,6 @@
-### Olá devs! Sou uma desenvolvedora em treinamento, encantada por esse mundo fantástico da tecnologia! ☺
+### Olá devs! Sou Samanta Barros! 👋
+- 🤩 Desenvolvedora em treinamento, encantada pelo mundo fantástico da tecnologia!
+- 📚 Estudando: HTML, CSS, JavaScript e Java.
 
 <div>
   <a href="https://github.com/samantabarros">
