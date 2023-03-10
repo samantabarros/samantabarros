@@ -1,6 +1,6 @@
 ### Olá devs! Sou Samanta Barros! 👋
 - 🤩 Desenvolvedora em treinamento!
-- 📚 Estudando: HTML, CSS, JavaScript, Python.
+- 📚 Estudando: HTML, CSS, JavaScript, Vue.js.
 
 <div>
   <a href="https://github.com/samantabarros">
