@@ -1,5 +1,5 @@
 ### Olá devs! Sou Samanta Barros! 👋
-- 🤩 Desenvolvedora em treinamento!
+-  :hourglass_flowing_sand: Desenvolvedora em treinamento! :hourglass_flowing_sand:
 - 📚 Estudando: HTML, CSS, JavaScript, Vue.js, Quasar.
 
 <div>
