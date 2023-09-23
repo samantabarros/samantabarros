@@ -5,6 +5,7 @@
 <div>
   <a href="https://github.com/samantabarros">
   <img height="200cm" src = "https://github-readme-stats.vercel.app/api?username=samantabarros&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150cm" alt="Samanta-girl" src="https://media.giphy.com/media/9EatplxEzlxDHM9BK7/giphy.gif">
 </div>
   
 <div style="display: inline_block"><br>
