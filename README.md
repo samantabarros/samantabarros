@@ -5,7 +5,6 @@
 <div>
   <a href="https://github.com/samantabarros">
   <img height="200cm" src = "https://github-readme-stats.vercel.app/api?username=samantabarros&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150cm" alt="Samanta-girl" src="https://media.giphy.com/media/9EatplxEzlxDHM9BK7/giphy.gif">
 </div>
   
 <div style="display: inline_block"><br>
@@ -14,6 +13,8 @@
   <img align="center" alt="Samanta.CSS" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
   <img align="center" alt="Samanta.JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
   <img align="center" alt="Samanta.Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> 
+  <img align="right" height="150cm" alt="Samanta-girl" src="https://media.giphy.com/media/9EatplxEzlxDHM9BK7/giphy.gif">
+  
 </div>
   
 ##
