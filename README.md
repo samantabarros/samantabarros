@@ -2,11 +2,6 @@
 -  :hourglass_flowing_sand: Desenvolvedora em treinamento! :hourglass_flowing_sand:
 - 📚 Estudando: HTML, CSS, JavaScript, Vue.js, Quasar.
 
-<div>
-  <a href="https://github.com/samantabarros">
-  <img height="200cm" src = "https://github-readme-stats.vercel.app/api?username=samantabarros&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Samanta.Git" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
   <img align="center" alt="Samanta.HTML" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
